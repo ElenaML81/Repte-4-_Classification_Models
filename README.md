@@ -18,7 +18,7 @@ The dataset is divided into a test file and a train file.  The train file, the o
 
 ### Results
 
-We have used 3 different models, Cross Validation results have been in all cases higher than 0.93 measured by F1 score.  Finally, we opted for the Random Forest model since it was the one with the highest F1 score in Cross Validation. 
+We have used 3 different models, Cross Validation results have been in all cases higher than 0.93 measured by F1 score.  Finally, we opted for the Random Forest model since it was the one with the highest F1 score in Cross Validation and we tuned Hyperparameters to get the final model. 
 
 
 ![results](https://user-images.githubusercontent.com/97047277/180643863-e8a208eb-1b78-4ecb-92ea-def40e6aa56c.png)
