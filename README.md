@@ -20,6 +20,10 @@ The dataset is divided into a test file and a train file.  The train file, the o
 
 We have used 3 different models, Cross Validation results have been in all cases higher than 0.93 measured by F1 score.  Finally, we opted for the Random Forest model since it was the one with the highest F1 score in Cross Validation. 
 
+
+![results](https://user-images.githubusercontent.com/97047277/180643863-e8a208eb-1b78-4ecb-92ea-def40e6aa56c.png)
+
+
 ### Packages and Libraries used in this Notebook: 
 
 #### Libraries used: 
@@ -137,6 +141,7 @@ notebook        ==    6.4.5
 
 -----
 Python 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+
 
 Windows-10-10.0.19044-SP0
 -----
