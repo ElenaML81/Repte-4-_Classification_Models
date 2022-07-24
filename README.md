@@ -1,6 +1,6 @@
 # Repte-4-_Classification_Models
 
-# Tumor Classification on Breast Cells- Bening or Malign 
+## Tumor Classification on Breast Cells- Bening or Malign 
 
 In this exercise we will compare the use of three different classification models to classify breast tumors as benign or malignant. 
 
@@ -24,11 +24,17 @@ We have used 3 different models, Cross Validation results have been in all cases
 Libraries used: 
 
 matplotlib   ==       3.5.1
+
 numpy        ==       1.20.3
+
 pandas       ==       1.4.1
+
 plotly       ==       5.6.0
+
 seaborn      ==       0.11.2
+
 session_info ==       1.0.0
+
 sklearn      ==       1.0.2
 -----
 Modules imported as dependencies: 
